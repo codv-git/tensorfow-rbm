@@ -2,6 +2,8 @@
 
 Tensorflow implementation of Restricted Boltzmann Machine for layerwise pretraining of deep autoencoders.
 
+(forked from meownoid/tensorfow-rbm)
+
 ### Overview
 
 This is a fork of https://github.com/Cospel/rbm-ae-tf with some corrections and improvements:
